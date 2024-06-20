@@ -1,0 +1,15 @@
+{
+  "name": "1231",
+  "version": "1.0.0",
+  "description": "",
+  "main": "3w3.js",
+  "scripts": {
+    "test:cy": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.10.0"
+  }
+}
